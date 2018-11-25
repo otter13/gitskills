@@ -1,1 +1,3 @@
-Creating a new branch is quick AND simple. Here is the master change.
+Hello.
+Creating a brand new branch is quick + simple. Here is the master change
+This is an added line.
