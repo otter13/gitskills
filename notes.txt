@@ -3,3 +3,5 @@ Creating a brand new branch is quick + simple. Here is the master change
 This is an added line.
 
 Now this line is from Dev
+
+Bug is now fixed in issue 101.
